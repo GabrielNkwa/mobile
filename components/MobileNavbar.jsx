@@ -99,7 +99,7 @@ export default function MobileNavbar() {
       <div className="container mx-auto">
 
         {navList}
-        <Link href='/mobilelogin'>
+        <Link href='/'>
         <Button variant="gradient" size="sm" fullWidth className="mb-2">
           <span>Sign Out</span>
         </Button>
