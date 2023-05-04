@@ -47,6 +47,18 @@ export default function signup() {
                     </div>
                     <div className="mb-2">
                         <label
+                            for="email"
+                            className="block text-sm font-semibold text-gray-800"
+                        >
+                            Email
+                        </label>
+                        <input
+                            type="input"
+                            className="block w-full px-4 py-2 mt-2 text-purple-700 bg-white border rounded-md focus:border-purple-400 focus:ring-purple-300 focus:outline-none focus:ring focus:ring-opacity-40"
+                        />
+                    </div>
+                    <div className="mb-2">
+                        <label
                             for="password"
                             className="block text-sm font-semibold text-gray-800"
                         >
