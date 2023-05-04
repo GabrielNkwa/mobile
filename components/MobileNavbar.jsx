@@ -49,7 +49,7 @@ export default function MobileNavbar() {
         variant="small"
         className="mr-4 cursor-pointer py-1.5 font-normal"
       >
-        <span>Emergency Management System</span>
+        <span>Integrated Emergency Management System</span>
       </Typography>
       <div className="hidden lg:block">{navList}</div>
       <Link href='/'>
