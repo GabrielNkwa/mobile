@@ -52,7 +52,7 @@ export default function MobileNavbar() {
         <span>Emergency Management System</span>
       </Typography>
       <div className="hidden lg:block">{navList}</div>
-      <Link href='/mobilelogin'>
+      <Link href='/'>
       <Button variant="gradient" size="sm" className="hidden lg:inline-block">
         <span>Sign out</span>
       </Button>
