@@ -10,7 +10,7 @@ const profile = () => {
   return (
     <>
         <MobileNavbar/>
-        <Link href='/'>
+        <Link href='/mobile'>
         <div className='p-1'><ArrowBackIosIcon/>Back</div>
         </Link>
     <Card/>

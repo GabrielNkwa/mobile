@@ -16,7 +16,7 @@ export default function Card() {
                     <span className="font-kumbh font-normal text-sm text-[#6a6f81] mt-1">Karmo, Abuja</span>
                     <span className="font-kumbh font-normal text-sm text-[#6a6f81] mt-1">+2348131539964</span>
                 </div>
-                <div className="flex flex-row justify-center space-x-12 py-6">
+                {/* <div className="flex flex-row justify-center space-x-12 py-6">
                     {data.map((item, index) => (
                         <Details
                             key={index}
@@ -24,7 +24,7 @@ export default function Card() {
                             category={item.key}
                         />
                     ))}
-                </div>
+                </div> */}
             </div>
         </div>
     );
