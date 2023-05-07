@@ -10,11 +10,11 @@ export default function Card() {
             <div className="w-full divide-y divide-[#969696]/25">
                 <div className="flex flex-col items-center py-6">
                     <div className="flex flex-row items-center space-x-2">
-                        <h1 className="font-kumbh font-bold text-lg text-[#2d3248]">Gabriel Nkwa</h1>
+                        <h1 className="font-kumbh font-bold text-lg text-[#2d3248]">Kelvin Steven</h1>
                         <span className="font-kumbh font-normal text-[#6a6f81]"></span>
                     </div>
-                    <span className="font-kumbh font-normal text-sm text-[#6a6f81] mt-1">Karmo, Abuja</span>
-                    <span className="font-kumbh font-normal text-sm text-[#6a6f81] mt-1">+2348131539964</span>
+                    <span className="font-kumbh font-normal text-sm text-[#6a6f81] mt-1">Abuja</span>
+                    <span className="font-kumbh font-normal text-sm text-[#6a6f81] mt-1">+234803303694</span>
                 </div>
                 {/* <div className="flex flex-row justify-center space-x-12 py-6">
                     {data.map((item, index) => (
